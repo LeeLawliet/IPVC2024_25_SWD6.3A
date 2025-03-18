@@ -1,0 +1,14 @@
+names:
+- baguette
+- maltese-bread
+- packaged-loaf
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: leexerri_breadrecognition
+  url: https://universe.roboflow.com/chesstrainingtool/leexerri_breadrecognition/dataset/1
+  version: 1
+  workspace: chesstrainingtool
+test: ../test/images
+train: ../train/images
+val: ../valid/images

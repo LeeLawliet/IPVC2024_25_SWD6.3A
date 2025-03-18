@@ -1,1 +1,7 @@
 ipcv/
+HomeAssignment/Bread_Recognition/LeeXerri_BreadRecognition/test/images/dataset6_image_-0002143_jpg.rf.6fdf072928259efd481c082c3848b362.jpg
+HomeAssignment/Bread_Recognition/LeeXerri_BreadRecognition/test/
+HomeAssignment/Bread_Recognition/LeeXerri_BreadRecognition/train/images/dataset6_image_-0001677_jpg.rf.7c890bd1f6ad3189e0827e03915ab7fa.jpg
+HomeAssignment/Bread_Recognition/LeeXerri_BreadRecognition/train/
+HomeAssignment/Bread_Recognition/LeeXerri_BreadRecognition/valid/
+*.pt
